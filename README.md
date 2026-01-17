@@ -12,6 +12,3 @@ pip install -r requirements.txt
 python run_pipeline.py
 pytest tests/
 
-## Assumptions
-- Unplanned breakdowns identified by reason = 'Unplanned Breakdown'
-- Null downtime treated as zero
